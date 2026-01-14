@@ -1,0 +1,4 @@
+# Contoh cross-dataset setting
+seed: 42
+source_dataset: sleepedf
+target_dataset: apneaecg

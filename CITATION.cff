@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "CN-T Sleep Apnea"
+version: "0.1.0"
+date-released: 2026-01-14
+authors:
+  - family-names: "YOUR_LAST_NAME"
+    given-names: "YOUR_FIRST_NAME"
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPO"

@@ -1,0 +1,14 @@
+# Contoh config training (isi sesuai kebutuhan)
+seed: 42
+dataset: sleepedf
+epochs: 5
+batch_size: 64
+lr: 0.001
+
+model:
+  name: cnt
+  dropout: 0.1
+
+preprocess:
+  epoch_seconds: 30
+  time_stretch_factor: 0.5

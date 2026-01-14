@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cnt-osa"
+version = "0.1.0"
+description = "CN-T Sleep Apnea research code"
+requires-python = ">=3.10"
